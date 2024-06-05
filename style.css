@@ -30,7 +30,6 @@ body {
     display: flex;
     flex-direction: column;
     width: 90%;
-    height: 90vh;
     max-width: 340px;
     background: rgba(255, 255, 255, 0.3);
     background: linear-gradient(0deg , rgba(60,92,139,0.8) 20%, rgba(34,193,195,0.8) 75%);
